@@ -1,0 +1,17 @@
+title: "Virgile's resume"
+logo: /assets/img/profil.png
+description: "
+  Contact Info {#contact}
+  virgile.korsec@gmail.com
+  +33 6 78 37 75
+  15, rue de Vincennes 35700 Rennes FRANCE
+  For more information, please contact me via email.
+  
+  Skills {#skills}
+  Programming with R
+  Knowledge over health care systems
+  Clinical practice and first aid
+  Epidemiology basics
+  Teamwork
+  Disclaimer {#disclaimer}"
+remote_theme: pages-themes/minimal@v0.2.0
